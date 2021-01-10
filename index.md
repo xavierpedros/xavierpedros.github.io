@@ -18,7 +18,7 @@ This study considers impact of different mobile technologies on economic growth 
 
 The magnitude of returns on mobile infrastructure upgrades does not diminish: mobile technology's impact is statistically on par with that of fixed broadband, and mobile broadband's average impact is also aligned with that of 2G connectivity. Moreover, the analysis shows that mobile's impact increases with a country's skills and with labour and capital from the services and industry sector, meaning there are important complementarities with mobile as a general purpose technology.
 
-[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){:target="_blank" rel="noopener"} - [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} - [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"} 
+[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){target="_blank" rel="noopener"} - [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} - [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"} 
 
 ---
 
