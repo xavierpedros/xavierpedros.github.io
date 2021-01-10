@@ -22,7 +22,5 @@ The magnitude of returns on mobile infrastructure upgrades does not diminish: mo
 
 ---
 
-## Contact me
-
-[xavier.pedros@upf.edu](xavier.pedros@upf.edu)
+Contact me at [xavier.pedros@upf.edu](xavier.pedros@upf.edu)
   
