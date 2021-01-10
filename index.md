@@ -14,7 +14,7 @@ The estimates show that mobile broadband coverage had large and positive impacts
 
 #### The impact of mobile technology on economic growth: global insights from 2000-2017 developments (2020)
 
-This study considers impact of different mobile technologies on economic growth and also assesses whether mobile has an additive impact when fixed broadband is in place. Applying IV and DPD models, our results show that a 10% increase in mobile penetration raises GDP per capita by 0.59- 0.76%, over and above the impact of fixed broadband. Disentangling mobile's average impact, we find a 10% increase in 2G mobile connectivity increases GDP per capita by 0.37-0.81%, while mobile broadband generates an additional impact of 0.12-0.72%. 
+This study considers the impacts of different mobile technologies on economic growth, as well as assesses whether mobile has an additive impact when fixed broadband is in place. Applying IV and DPD models, our results show that a 10% increase in mobile penetration raises GDP per capita by 0.59- 0.76%, over and above the impact of fixed broadband. Disentangling mobile's average impact, we find a 10% increase in 2G mobile connectivity increases GDP per capita by 0.37-0.81%, while mobile broadband generates an additional impact of 0.12-0.72%. 
 
 The magnitude of returns on mobile infrastructure upgrades does not diminish: mobile technology's impact is statistically on par with that of fixed broadband, and mobile broadband's average impact is also aligned with that of 2G connectivity. Moreover, the analysis shows that mobile's impact increases with a country's skills and with labour and capital from the services and industry sector, meaning there are important complementarities with mobile as a general purpose technology.
 
