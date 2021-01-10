@@ -1,4 +1,4 @@
-## Recent work
+## Recent selected papers
 
 ---
 
