@@ -8,7 +8,7 @@ This paper estimates the impacts of mobile broadband coverage on household consu
 
 The estimates show that mobile broadband coverage had large and positive impacts on household consumption levels which increased over time, although at a decreasing rate. Mobile broadband coverage also reduces the proportion of households below the poverty line, driven by higher food and non-food consumption in rural households. These effects are mainly due to an increase in labor force participation and employment, particularly among women.
 
-[World Bank Working Paper](https://openknowledge.worldbank.org/bitstream/handle/10986/33712/The-Welfare-Effects-of-Mobile-Broadband-Internet-Evidence-from-Nigeria.pdf?sequence=1&isAllowed=y) - [GSMA Policy Report](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/12/The-Poverty-Reduction-Effects-of-Mobile-Broadband-in-Africa-Evidence-from-Nigeria.pdf)
+[World Bank Working Paper](https://openknowledge.worldbank.org/bitstream/handle/10986/33712/The-Welfare-Effects-of-Mobile-Broadband-Internet-Evidence-from-Nigeria.pdf?sequence=1&isAllowed=y){:target="_blank" rel="noopener"} - [GSMA Policy Report](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/12/The-Poverty-Reduction-Effects-of-Mobile-Broadband-in-Africa-Evidence-from-Nigeria.pdf){:target="_blank" rel="noopener"}
 
 ---
 
@@ -18,7 +18,7 @@ This study considers impact of different mobile technologies on economic growth 
 
 The magnitude of returns on mobile infrastructure upgrades does not diminish: mobile technology's impact is statistically on par with that of fixed broadband, and mobile broadband's average impact is also aligned with that of 2G connectivity. Moreover, the analysis shows that mobile's impact increases with a country's skills and with labour and capital from the services and industry sector, meaning there are important complementarities with mobile as a general purpose technology.
 
-[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164) - [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf) - [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf) 
+[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){:target="_blank" rel="noopener"} - [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} - [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"} 
 
 ---
 
