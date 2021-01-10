@@ -22,7 +22,9 @@ This study considers the impacts of different mobile technologies on economic gr
 
 The magnitude of returns on mobile infrastructure upgrades does not diminish: mobile technology's impact is statistically on par with that of fixed broadband, and mobile broadband's average impact is also aligned with that of 2G connectivity. Moreover, the analysis shows that mobile's impact increases with a country's skills and with labour and capital from the services and industry sector, meaning there are important complementarities with mobile as a general purpose technology.
 
-[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){:target="_blank" rel="noopener"} ⦁ [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} ⦁ [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"} 
+[Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){:target="_blank" rel="noopener"} ⦁ [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} ⦁ [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"}
+
+*Presented at International Telecommunications Society Conference 2019*
 
 ---
 
@@ -36,6 +38,8 @@ We do so using Difference-In-Difference and synthetic control methods, being the
 We find that, as a result of the merger, Hutchison was able to accelerate population coverage of its 4G network by 20–30 percentage points, with this taking effect after two years. Hutchison’s 4G network quality also increased significantly, with 4G download and upload speeds increasing by 7 Mbps and 3Mbps respectively, two years after the merger. We also find positive effects on the quality of the other operators in the market.
 
 [Econstor Working Paper (2017)](https://www.econstor.eu/bitstream/10419/169453/1/Castells-et-al.pdf){:target="_blank" rel="noopener"}
+
+*Presented at Association of Competition Economists Conference 2017; International Telecommunications Society European Conference 2017; Cambridge University.*
 
 ---
 
