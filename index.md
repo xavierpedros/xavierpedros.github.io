@@ -8,6 +8,7 @@ This paper estimates the impacts of mobile broadband cover- age on household con
 
 [World Bank Working Paper](https://openknowledge.worldbank.org/bitstream/handle/10986/33712/The-Welfare-Effects-of-Mobile-Broadband-Internet-Evidence-from-Nigeria.pdf?sequence=1&isAllowed=y) - [GSMA Policy Report](https://www.gsma.com/mobilefordevelopment/wp-content/uploads/2020/12/The-Poverty-Reduction-Effects-of-Mobile-Broadband-in-Africa-Evidence-from-Nigeria.pdf)
 
+---
 
 ### The impact of mobile technology on economic growth: global insights from 2000-2017 developments (2020)
 
@@ -16,16 +17,8 @@ This study considers impact of different mobile technologies on economic growth 
 [Econstor 2019 Working Paper](https://www.econstor.eu/handle/10419/205164) - [GSMA 2020 Working Paper](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf) - [GSMA 2020 Policy Report](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf) 
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
+### Read more
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -34,8 +27,6 @@ This study considers impact of different mobile technologies on economic growth 
 - [Project 5 Title](http://example.com/)
 
 ---
-
-
 
 
 ---
