@@ -24,7 +24,7 @@ The magnitude of returns on mobile infrastructure upgrades does not diminish: mo
 
 [Econstor Working Paper (2019)](https://www.econstor.eu/handle/10419/205164){:target="_blank" rel="noopener"} ⦁ [GSMA Working Paper (2020)](https://data.gsmaintelligence.com/api-web/v2/research-file-download?id=54165922&file=121120-working-paper.pdf){:target="_blank" rel="noopener"} ⦁ [GSMA Policy Report (2020)](https://www.gsma.com/betterfuture/wp-content/uploads/2020/11/Mobile-technology-and-economic-growth_web.pdf){:target="_blank" rel="noopener"}
 
-*Presented at International Telecommunications Society Conference 2019*
+*Presented at International Telecommunications Society Conference (2019)*
 
 ---
 
@@ -39,7 +39,7 @@ We find that, as a result of the merger, Hutchison was able to accelerate popula
 
 [Econstor Working Paper (2017)](https://www.econstor.eu/bitstream/10419/169453/1/Castells-et-al.pdf){:target="_blank" rel="noopener"}
 
-*Presented at Association of Competition Economists Conference 2017; International Telecommunications Society European Conference 2017; Cambridge University.*
+*Presented at Association of Competition Economists Conference (2017); International Telecommunications Society European Conference (2017); Cambridge University seminar (2018); Pompeu Fabra University seminar (2018).*
 
 ---
 
