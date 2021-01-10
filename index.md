@@ -26,7 +26,7 @@ The magnitude of returns on mobile infrastructure upgrades does not diminish: mo
 
 ---
 
-### Assessing the impact of mobile consolidation on innovation and quality: An evaluation of the Hutchison/Orange merger in Austria (2017)
+#### Assessing the impact of mobile consolidation on innovation and quality: An evaluation of the Hutchison/Orange merger in Austria (2017)
 
 *Bahia, Castells and Pedros*
 
