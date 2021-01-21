@@ -15,4 +15,4 @@ Difference-In-Difference estimators show that mobile broadband coverage had larg
 
 ---
 
-#### The impact of mobile technology on economic growth: global insights from 2000-2017 developments (2020)
+### [See more research](https://xavierpedros.github.io/)
