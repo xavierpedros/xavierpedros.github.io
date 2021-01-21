@@ -1,7 +1,3 @@
-### Recent research
-
----
-
 #### The welfare effects of mobile broadband internet: evidence from Nigeria (World Bank & GSMA, 2020)
 
 *Bahia, Castells, Cruz, Masaki, Pedros, Pfutze, Rodriguez-Castelan and Winkler*
